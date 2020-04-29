@@ -1,4 +1,11 @@
-<<<<<<< HEAD
+# TicTacToe
+
+TicTacToe game made with React.
+
+I made this game as part of the tutorial on React's website https://reactjs.org/tutorial/tutorial.html to introduce myself to the React JavaScript library.
+
+I might try doing the 6 exercises they recommend at the end of the tutorial and styling the page to make it more of my own.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,11 +75,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
-# TicTacToe
-
-TicTacToe game made with React.
-
-I made this game as part of the tutorial on React's website https://reactjs.org/tutorial/tutorial.html to introduce myself to the React JavaScript library.
-
-I might try doing the 6 exercises they recommended at the end of the tutorial and styling the page to make it more of my own.
->>>>>>> 04af0adfbd9f305407a919adbe7c582154d2a1d5
